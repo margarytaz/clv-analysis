@@ -57,19 +57,28 @@ The analysis of customer data revealed several critical insights:
 
 ---
 
-## 📊 Access the Google Sheets File
+## 📊 Access Dataset and Google Sheets File
 
 [**Access the CLV file here**](https://docs.google.com/spreadsheets/d/1AIy3eBdK2lqzSnvG1f0R7K1IeKKsH55tfMEwGNa2veM/edit?gid=11778143#gid=11778143)
 
-## 📸 Dashboard Snapshots
+[**Original dataset**](data/dataset_clv.csv)
 
-Here are some screenshots of the CLV Dashboard, showcasing its design and key components:
+## 📸 Project Snapshots
 
-![CLV Dashboard Overview](screenshots/clv_dashboard_overview.png)
-*(A full view of the CLV dashboard layout, including key metrics and charts.)*
+Here are some screenshots of the Google Sheets file, showcasing its design and key components:
 
-![ARPU by Cohort Table](screenshots/arpu_cohort_table.png)
-*(A close-up of the Average Revenue Per User by Cohort table, detailing weekly ARPU trends.)*
+<img src="screenshots/arpu_cohort.png" alt="ARPU by Cohort Table" style="width: 1000px;">
 
-![Revenue by Category Chart](screenshots/revenue_by_category.png)
-*(A visualization showing revenue distribution across device categories: mobile, desktop, and tablet.)*
+*A close-up of the Average Revenue Per User by Cohort table, detailing weekly ARPU trends, as well as Historical CLV.*
+
+<img src="screenshots/aov_cohort.png" alt="AOV by Cohort Table" style="width: 1000px;">
+
+*A close-up of the Average Order Value by Cohort table, detailing weekly AOV trends.*
+
+<img src="screenshots/by_device.png" alt="Revenue by Device Chart" style="width: 600px;">
+
+*A table and pie chart showing revenue distribution across device categories: mobile, desktop, and tablet.*
+
+<img src="screenshots/by_location.png" alt="Revenue by Country Chart" style="width: 600px;">
+
+*A graph presenting revenue sources by country.*
